@@ -1,0 +1,26 @@
+body {
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+nav {
+    text-align: center;
+    background-color: #44475a;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #6272a4;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
